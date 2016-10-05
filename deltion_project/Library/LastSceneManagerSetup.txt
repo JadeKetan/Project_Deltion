@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/match mode.unity
-  isLoaded: 1
-  isActive: 1
